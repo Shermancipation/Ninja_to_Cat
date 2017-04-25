@@ -1,0 +1,14 @@
+#globalwrapper {
+  display: block;
+  width: 970px;
+  height: 1000px;
+  vertical-align: middle;
+}
+
+#imagewrapper {
+  display: block;
+  width: 181px;
+  height: 350px;
+  /*border: 1px dotted red;*/
+
+}
